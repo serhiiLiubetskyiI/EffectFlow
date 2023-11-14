@@ -1,4 +1,4 @@
-package com.plamfy.platform.presentation
+package com.effects.presentation
 
 import android.annotation.SuppressLint
 import androidx.compose.runtime.Composable
